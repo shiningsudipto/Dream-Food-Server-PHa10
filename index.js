@@ -20,7 +20,9 @@ app.get('/chef/:id', (req, res) => {
     const item = chef.find(cd => cd.id == id)
     res.send(item)
 })
-
+app.get('/dishes', (req, res) => {
+    res.send(dishes)
+})
 
 app.listen(port, () => {
     console.log(`Chef API is running on port: ${port}`)
