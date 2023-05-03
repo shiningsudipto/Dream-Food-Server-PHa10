@@ -15,6 +15,11 @@ app.get('/', (req, res) => {
 app.get('/chef', (req, res) => {
     res.send(chef)
 })
+app.get('/chef/:id', (req, res) => {
+    const id = req.params.id;
+    const item = chef.find(cd => cd.id == id)
+    res.send(item)
+})
 
 
 app.listen(port, () => {
