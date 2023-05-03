@@ -1,0 +1,337 @@
+[
+    {
+        "picture": "https://uploads-ssl.webflow.com/5e8f5614a438dde426002a6e/600aed7322be17e6561aaf7a_Gordon%20Ramsay%20Michelin%20Stars.png",
+        "name": "Gordon Ramsay",
+        "bio": "Gordon Ramsay is a British chef, restaurateur, writer, and television personality. He has owned and operated numerous restaurants around the world and has been awarded multiple Michelin stars. Ramsay is also known for his fiery temper and tough love approach to mentoring on shows like 'Hell's Kitchen' and 'MasterChef'.",
+        "experience_years": 10,
+        "num_recipes": 50,
+        "likes": 3000,
+        "view_recipes": "view recipes",
+        "id": 1,
+        "recipes": [
+            {
+                "name": "Classic Cheeseburger",
+                "ingredients": [
+                    "ground beef",
+                    "cheddar cheese",
+                    "lettuce",
+                    "tomato",
+                    "onion",
+                    "ketchup",
+                    "mustard",
+                    "hamburger buns"
+                ],
+                "cooking_method": "1. Preheat grill to medium-high heat. 2. Divide ground beef into 4 equal portions and form into patties. 3. Grill patties for 5-6 minutes on each side, or until cooked to your desired level of doneness. 4. Top each patty with a slice of cheese during the last minute of grilling. 5. Toast hamburger buns on the grill for 1-2 minutes. 6. Assemble burgers with lettuce, tomato, onion, ketchup, and mustard. Enjoy!",
+                "rating": 4.5
+            },
+            {
+                "name": "Southern Fried Chicken",
+                "ingredients": [
+                    "chicken thighs",
+                    "buttermilk",
+                    "flour",
+                    "salt",
+                    "pepper",
+                    "paprika",
+                    "cayenne pepper",
+                    "oil"
+                ],
+                "cooking_method": "1. Soak chicken thighs in buttermilk for at least 1 hour. 2. Combine flour, salt, pepper, paprika, and cayenne pepper in a shallow dish. 3. Remove chicken from buttermilk and coat in flour mixture. 4. Heat oil in a large skillet over medium-high heat. 5. Fry chicken for 5-6 minutes on each side, or until golden brown and cooked through. 6. Drain on paper towels. Enjoy!",
+                "rating": 4.7
+            },
+            {
+                "name": "Macaroni and Cheese",
+                "ingredients": [
+                    "elbow macaroni",
+                    "cheddar cheese",
+                    "butter",
+                    "flour",
+                    "milk",
+                    "bread crumbs",
+                    "salt",
+                    "pepper"
+                ],
+                "cooking_method": "1. Cook elbow macaroni according to package instructions. Drain and set aside. 2. Melt butter in a saucepan over medium heat. 3. Whisk in flour and cook for 1-2 minutes, stirring constantly. 4. Gradually whisk in milk and continue to cook until mixture thickens. 5. Stir in shredded cheddar cheese until melted and smooth. 6. Add cooked macaroni to the cheese sauce and stir to combine. 7. Transfer mixture to a baking dish and top with bread crumbs. 8. Bake at 350 degrees Fahrenheit for 20-25 minutes, or until golden brown and bubbly. Enjoy!",
+                "rating": 4.2
+            }
+        ]
+    },
+    {
+        "picture": "https://hips.hearstapps.com/del.h-cdn.co/assets/cm/15/10/54f637e864f9c_-_puck-chef-lg.jpg",
+        "name": "Wolfgang Puck",
+        "bio": "Wolfgang Puck is an Austrian-born American chef and restaurateur. He is best known for his fusion cuisine, which blends traditional French techniques with Asian and Californian influences. Puck has won multiple James Beard Awards and has appeared on numerous cooking shows and in films and TV shows as himself.",
+        "experience_years": 15,
+        "num_recipes": 75,
+        "likes": 2000,
+        "view_recipes": "view recipes",
+        "id": 2,
+        "recipes": [
+            {
+                "name": "BBQ Pulled Pork Sandwich",
+                "ingredients": [
+                    "pork shoulder",
+                    "BBQ sauce",
+                    "hamburger buns",
+                    "coleslaw",
+                    "salt",
+                    "pepper"
+                ],
+                "cooking_method": "1. Season pork shoulder with salt and pepper. 2. Place pork shoulder in a slow cooker and pour BBQ sauce over the top. 3. Cook on low for 8-10 hours, or until pork is tender and falls apart easily. 4. Shred pork with two forks and mix with remaining BBQ sauce. 5. Toast hamburger buns on a grill or in the oven. 6. Assemble sandwiches with pulled pork and coleslaw. Enjoy!",
+                "rating": 4.3
+            },
+            {
+                "name": "Mac and Cheese Stuffed Meatloaf",
+                "ingredients": [
+                    "ground beef",
+                    "macaroni and cheese",
+                    "breadcrumbs",
+                    "egg",
+                    "ketchup",
+                    "mustard",
+                    "brown sugar",
+                    "garlic powder"
+                ],
+                "cooking_method": "1. Preheat oven to 350 degrees Fahrenheit. 2. Mix ground beef, breadcrumbs, egg, ketchup, mustard, brown sugar, and garlic powder in a large bowl. 3. Press half of the meat mixture into a loaf pan. 4. Spread macaroni and cheese over the meat mixture. 5. Cover with remaining meat mixture and press down to seal. 6. Bake for 45-50 minutes, or until cooked through. 7. Let rest for 5-10 minutes before slicing and serving. Enjoy!",
+                "rating": 4.8
+            },
+            {
+                "name": "Key Lime Pie",
+                "ingredients": [
+                    "graham cracker crust",
+                    "condensed milk",
+                    "key lime juice",
+                    "egg yolks",
+                    "whipped cream",
+                    "lime zest"
+                ],
+                "cooking_method": "1. Preheat oven to 350 degrees Fahrenheit. 2. Mix condensed milk, key lime juice, and egg yolks in a large bowl. 3. Pour mixture into a graham cracker crust. 4. Bake for 15-20 minutes, or until filling is set. 5. Let cool to room temperature, then refrigerate for at least 1 hour. 6. Top with whipped cream and lime zest before serving. Enjoy!",
+                "rating": 4.6
+            }
+        ]
+    },
+    {
+        "picture": "https://qvc.scene7.com/is/image/QVC/pic/cd/sq1_left_emeril_20191117.jpg",
+        "name": "Emeril Lagasse",
+        "bio": "Emeril Lagasse is an American celebrity chef, restaurateur, and television personality. He is known for his signature catchphrases like 'Bam!' and for popularizing Cajun and Creole cuisine in the United States. Lagasse has hosted several cooking shows and has written over a dozen cookbooks.",
+        "experience_years": 5,
+        "num_recipes": 30,
+        "likes": 500,
+        "view_recipes": "view recipes",
+        "id": 3,
+        "recipes": [
+            {
+                "name": "Crispy Buffalo Wings",
+                "ingredients": [
+                    "chicken wings",
+                    "all-purpose flour",
+                    "paprika",
+                    "garlic powder",
+                    "salt",
+                    "black pepper",
+                    "hot sauce",
+                    "butter"
+                ],
+                "cooking_method": "1. Preheat oven to 400 degrees Fahrenheit. 2. Mix together flour, paprika, garlic powder, salt, and black pepper in a large bowl. 3. Add chicken wings to the bowl and toss until coated. 4. Arrange wings on a baking sheet and bake for 40-45 minutes, or until crispy and cooked through. 5. Melt butter in a saucepan over medium heat. 6. Whisk in hot sauce until smooth. 7. Toss baked wings in hot sauce mixture until coated. Enjoy!",
+                "rating": 4.8
+            },
+            {
+                "name": "Pulled Pork Sandwich",
+                "ingredients": [
+                    "pork shoulder",
+                    "barbecue sauce",
+                    "apple cider vinegar",
+                    "brown sugar",
+                    "mustard powder",
+                    "garlic powder",
+                    "onion powder",
+                    "hamburger buns"
+                ],
+                "cooking_method": "1. Combine barbecue sauce, apple cider vinegar, brown sugar, mustard powder, garlic powder, and onion powder in a saucepan over medium heat. 2. Bring to a simmer and cook for 10-15 minutes, stirring occasionally. 3. Rub pork shoulder with salt and pepper. 4. Place pork shoulder in a slow cooker and pour barbecue sauce mixture over the top. 5. Cook on low for 8-10 hours, or until pork is tender and falls apart easily. 6. Shred pork with two forks and mix with the cooking liquid. 7. Toast hamburger buns and assemble sandwiches with pulled pork. Enjoy!",
+                "rating": 4.5
+            },
+            {
+                "name": "Key Lime Pie",
+                "ingredients": [
+                    "graham cracker crumbs",
+                    "butter",
+                    "sweetened condensed milk",
+                    "key lime juice",
+                    "lime zest",
+                    "whipped cream",
+                    "lime slices",
+                    "mint leaves"
+                ],
+                "cooking_method": "1. Preheat oven to 350 degrees Fahrenheit. 2. Mix together graham cracker crumbs and melted butter in a bowl. 3. Press mixture into a 9-inch pie dish. 4. Bake for 10 minutes and let cool. 5. Whisk together sweetened condensed milk, key lime juice, and lime zest in a bowl. 6. Pour mixture into cooled crust. 7. Bake for 10-12 minutes, or until filling is set. 8. Let cool to room temperature and refrigerate for at least 1 hour. 9. Top with whipped cream, lime slices, and mint leaves. Enjoy!",
+                "rating": 4.9
+            }
+        ]
+    },
+    {
+        "picture": "https://i0.wp.com/thechefsconnection.com/wp-content/uploads/2014/06/bobby-flay_profile_2017.jpg",
+        "name": "Bobby Flay",
+        "bio": "Bobby Flay is an American celebrity chef, restaurateur, and television personality. He is known for his Southwestern cuisine and for his appearances on cooking shows like 'Iron Chef America' and 'Throwdown! with Bobby Flay'. Flay has also written several cookbooks and owns several restaurants around the United States.",
+        "experience_years": 10,
+        "num_recipes": 50,
+        "likes": 1000,
+        "view_recipes": "view recipes",
+        "id": 4,
+        "recipes": [
+            {
+                "name": "Philly Cheesesteak",
+                "ingredients": [
+                    "sirloin steak",
+                    "hoagie rolls",
+                    "onion",
+                    "green pepper",
+                    "provolone cheese",
+                    "mayonnaise",
+                    "salt",
+                    "pepper"
+                ],
+                "cooking_method": "1. Preheat a skillet or griddle over medium-high heat. 2. Slice sirloin steak thinly against the grain. 3. Add sliced onion and green pepper to the skillet and cook until soft. 4. Push vegetables to the side of the skillet and add steak. 5. Cook steak until browned and cooked through. 6. Season with salt and pepper to taste. 7. Top steak with provolone cheese and let melt. 8. Toast hoagie rolls on the griddle. 9. Assemble sandwiches with mayonnaise and steak and vegetables. Enjoy!",
+                "rating": 4.4
+            },
+            {
+                "name": "BBQ Ribs",
+                "ingredients": [
+                    "pork ribs",
+                    "barbecue sauce",
+                    "brown sugar",
+                    "paprika",
+                    "garlic powder",
+                    "onion powder",
+                    "salt",
+                    "pepper"
+                ],
+                "cooking_method": "1. Preheat oven to 275 degrees Fahrenheit. 2. Mix together brown sugar, paprika, garlic powder, onion powder, salt, and pepper to make a dry rub. 3. Rub the dry rub all over the pork ribs. 4. Wrap the ribs tightly in aluminum foil and place on a baking sheet. 5. Bake for 2-3 hours, or until the meat is tender and falling off the bone. 6. Remove ribs from foil and brush with barbecue sauce. 7. Grill the ribs over medium heat for 5-7 minutes on each side, or until caramelized and sticky. Enjoy!",
+                "rating": 4.8
+            },
+            {
+                "name": "Jambalaya",
+                "ingredients": [
+                    "andouille sausage",
+                    "shrimp",
+                    "chicken thighs",
+                    "rice",
+                    "onion",
+                    "celery",
+                    "bell pepper",
+                    "garlic"
+                ],
+                "cooking_method": "1. Heat oil in a large pot over medium-high heat. 2. Add diced onion, celery, bell pepper, and minced garlic and cook until softened. 3. Add sliced andouille sausage and diced chicken thighs and cook until browned. 4. Add uncooked rice and stir to combine. 5. Add chicken broth and bring to a simmer. 6. Reduce heat to low, cover, and cook for 20-25 minutes, or until rice is tender and liquid is absorbed. 7. Add peeled and deveined shrimp and cook until pink and cooked through. Enjoy!",
+                "rating": 4.4
+            }
+        ]
+    },
+    {
+        "picture": "https://www.tasteofhome.com/wp-content/uploads/2021/01/julia-child-in-kitchen-QT-1200x800-GettyImages-593376280.jpg",
+        "name": "Julia Child",
+        "bio": "Julia Child was an American chef, author, and television personality. She is best known for her influential cookbook 'Mastering the Art of French Cooking' and for her television series 'The French Chef'. Child introduced French cuisine to the American public and helped popularize cooking as a form of entertainment.",
+        "experience_years": 15,
+        "num_recipes": 75,
+        "likes": 2000,
+        "view_recipes": "view recipes",
+        "id": 5,
+        "recipes": [
+            {
+                "name": "Pecan Pie",
+                "ingredients": [
+                    "pie crust",
+                    "pecans",
+                    "brown sugar",
+                    "corn syrup",
+                    "eggs",
+                    "butter",
+                    "vanilla extract",
+                    "salt"
+                ],
+                "cooking_method": "1. Preheat oven to 350 degrees Fahrenheit. 2. In a large bowl, whisk together brown sugar, corn syrup, eggs, melted butter, vanilla extract, and salt. 3. Stir in chopped pecans. 4. Pour mixture into an unbaked pie crust. 5. Bake for 45-50 minutes, or until filling is set and crust is golden brown. 6. Cool completely before serving. Enjoy!",
+                "rating": 4.6
+            },
+            {
+                "name": "Fried Catfish",
+                "ingredients": [
+                    "catfish fillets",
+                    "cornmeal",
+                    "flour",
+                    "salt",
+                    "pepper",
+                    "garlic powder",
+                    "cayenne pepper",
+                    "oil"
+                ],
+                "cooking_method": "1. Mix together cornmeal, flour, salt, pepper, garlic powder, and cayenne pepper in a shallow dish. 2. Dredge catfish fillets in the cornmeal mixture, shaking off any excess. 3. Heat oil in a large skillet over medium-high heat. 4. Fry catfish for 3-4 minutes on each side, or until golden brown and cooked through. 5. Drain on paper towels. Enjoy!",
+                "rating": 4.2
+            },
+            {
+                "name": "Pancakes",
+                "ingredients": [
+                    "flour",
+                    "sugar",
+                    "baking powder",
+                    "salt",
+                    "milk",
+                    "eggs",
+                    "butter",
+                    "maple syrup"
+                ],
+                "cooking_method": "1. In a bowl, whisk together flour, sugar, baking powder, and salt. 2. In a separate bowl, whisk together milk, eggs, and melted butter. 3. Gradually add dry ingredients to wet ingredients, mixing until just combined. 4. Heat a griddle over medium-high heat. 5. Drop spoonfuls of batter onto the griddle. 6. Cook until bubbles form on the surface, then flip and cook until golden brown. 7. Serve with maple syrup. Enjoy!",
+                "rating": 4.4
+            }
+        ]
+    },
+    {
+        "picture": "https://i.pinimg.com/564x/a5/9f/c8/a59fc8098d0b8f50dd95685a736a90db.jpg",
+        "name": "Anthony Bourdain",
+        "bio": "Anthony Bourdain was an American chef, author, and television personality. He was known for his travels around the world to discover new foods and cultures and for his shows 'No Reservations' and 'Parts Unknown'. Bourdain also wrote several books and was a vocal advocate for restaurant workers and for sustainable and ethical food practices.",
+        "experience_years": 5,
+        "num_recipes": 30,
+        "likes": 500,
+        "view_recipes": "view recipes",
+        "id": 6,
+        "recipes": [
+            {
+                "name": "Apple Pie",
+                "ingredients": [
+                    "apples",
+                    "sugar",
+                    "cinnamon",
+                    "flour",
+                    "butter",
+                    "pie crust"
+                ],
+                "cooking_method": "1. Preheat oven to 375 degrees Fahrenheit. 2. Peel and slice apples and toss with sugar and cinnamon. 3. Roll out pie crust and place in a pie dish. 4. Add apple mixture to the pie crust. 5. Dot with butter. 6. Roll out another pie crust and place on top. Cut slits to vent. 7. Bake for 45-50 minutes, or until crust is golden brown and apples are tender. Enjoy!",
+                "rating": 4.6
+            },
+            {
+                "name": "Chocolate Chip Cookies",
+                "ingredients": [
+                    "butter",
+                    "brown sugar",
+                    "white sugar",
+                    "eggs",
+                    "vanilla extract",
+                    "flour",
+                    "baking soda",
+                    "salt",
+                    "chocolate chips"
+                ],
+                "cooking_method": "1. Preheat oven to 375 degrees Fahrenheit. 2. Cream butter, brown sugar, and white sugar together until light and fluffy. 3. Add eggs and vanilla extract and beat until well combined. 4. In a separate bowl, whisk together flour, baking soda, and salt. 5. Gradually add dry ingredients to wet ingredients, mixing until just combined. 6. Stir in chocolate chips. 7. Drop spoonfuls of dough onto a baking sheet. 8. Bake for 10-12 minutes, or until edges are golden brown. Enjoy!",
+                "rating": 4.9
+            },
+            {
+                "name": "Key Lime Pie",
+                "ingredients": [
+                    "graham cracker crust",
+                    "sweetened condensed milk",
+                    "key lime juice",
+                    "lime zest",
+                    "egg yolks",
+                    "whipped cream"
+                ],
+                "cooking_method": "1. Preheat oven to 350 degrees Fahrenheit. 2. In a bowl, whisk together sweetened condensed milk, key lime juice, lime zest, and egg yolks until smooth. 3. Pour mixture into a graham cracker crust. 4. Bake for 15-20 minutes, or until filling is set. 5. Chill in the refrigerator for at least 2 hours. 6. Serve with whipped cream. Enjoy!",
+                "rating": 4.3
+            }
+        ]
+    }
+]
