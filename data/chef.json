@@ -11,6 +11,7 @@
         "recipes": [
             {
                 "name": "Classic Cheeseburger",
+                "image": "https://i.ibb.co/yp7ghG5/burgersss.jpg",
                 "ingredients": [
                     "ground beef",
                     "cheddar cheese",
@@ -26,6 +27,7 @@
             },
             {
                 "name": "Southern Fried Chicken",
+                "image": "https://i.ibb.co/K6PnCcY/Fried-Chicken.jpg",
                 "ingredients": [
                     "chicken thighs",
                     "buttermilk",
@@ -41,6 +43,7 @@
             },
             {
                 "name": "Macaroni and Cheese",
+                "image": "https://i.ibb.co/C7wvbFV/Mac-and-Cheese.jpg",
                 "ingredients": [
                     "elbow macaroni",
                     "cheddar cheese",
@@ -68,6 +71,7 @@
         "recipes": [
             {
                 "name": "BBQ Pulled Pork Sandwich",
+                "image": "https://i.ibb.co/svHsVfs/Pulled-Pork-Sandwich.jpg",
                 "ingredients": [
                     "pork shoulder",
                     "BBQ sauce",
@@ -81,6 +85,7 @@
             },
             {
                 "name": "Mac and Cheese Stuffed Meatloaf",
+                "image": "https://i.ibb.co/XZCpq7T/Philly-Cheesesteakk.jpg",
                 "ingredients": [
                     "ground beef",
                     "macaroni and cheese",
@@ -96,6 +101,7 @@
             },
             {
                 "name": "Key Lime Pie",
+                "image": "https://i.ibb.co/fdqHF2R/Key-Lime-Pie.jpg",
                 "ingredients": [
                     "graham cracker crust",
                     "condensed milk",
@@ -121,6 +127,7 @@
         "recipes": [
             {
                 "name": "Crispy Buffalo Wings",
+                "image": "https://i.ibb.co/9t5rwDD/Crispy-Buffalo-Wings.webp",
                 "ingredients": [
                     "chicken wings",
                     "all-purpose flour",
@@ -136,6 +143,7 @@
             },
             {
                 "name": "Pulled Pork Sandwich",
+                "image": "https://i.ibb.co/SxjvqXj/Pulled-Pork-Sandwichh.jpg",
                 "ingredients": [
                     "pork shoulder",
                     "barbecue sauce",
@@ -151,6 +159,7 @@
             },
             {
                 "name": "Key Lime Pie",
+                "image": "https://i.ibb.co/Rp0nXNG/Key-Lime-Piee.jpg",
                 "ingredients": [
                     "graham cracker crumbs",
                     "butter",
@@ -178,6 +187,7 @@
         "recipes": [
             {
                 "name": "Philly Cheesesteak",
+                "image": "https://i.ibb.co/SnVZJgN/Philly-Cheesesteak.jpg",
                 "ingredients": [
                     "sirloin steak",
                     "hoagie rolls",
@@ -193,6 +203,7 @@
             },
             {
                 "name": "BBQ Ribs",
+                "image": "https://i.ibb.co/xJMdNF5/BBQ-Ribs.jpg",
                 "ingredients": [
                     "pork ribs",
                     "barbecue sauce",
@@ -208,6 +219,7 @@
             },
             {
                 "name": "Jambalaya",
+                "image": "https://i.ibb.co/tB90pmK/Jambalaya.webp",
                 "ingredients": [
                     "andouille sausage",
                     "shrimp",
@@ -235,6 +247,7 @@
         "recipes": [
             {
                 "name": "Pecan Pie",
+                "image": "https://i.ibb.co/bBtnS3r/Pecan-Piee.jpg",
                 "ingredients": [
                     "pie crust",
                     "pecans",
@@ -250,6 +263,7 @@
             },
             {
                 "name": "Fried Catfish",
+                "image": "https://i.ibb.co/mGwtjhy/Fried-Catfish.jpg",
                 "ingredients": [
                     "catfish fillets",
                     "cornmeal",
@@ -265,6 +279,7 @@
             },
             {
                 "name": "Pancakes",
+                "image": "https://i.ibb.co/qn0FZjK/Pancakess.jpg",
                 "ingredients": [
                     "flour",
                     "sugar",
@@ -292,6 +307,7 @@
         "recipes": [
             {
                 "name": "Apple Pie",
+                "image": "https://i.ibb.co/d5HwqJy/Pecan-Pie.jpg",
                 "ingredients": [
                     "apples",
                     "sugar",
@@ -305,6 +321,7 @@
             },
             {
                 "name": "Chocolate Chip Cookies",
+                "image": "https://i.ibb.co/vm1G6ZT/Chocolate-Chip-Cookies.jpg",
                 "ingredients": [
                     "butter",
                     "brown sugar",
@@ -321,6 +338,7 @@
             },
             {
                 "name": "Key Lime Pie",
+                "image": "https://i.ibb.co/Rp0nXNG/Key-Lime-Piee.jpg",
                 "ingredients": [
                     "graham cracker crust",
                     "sweetened condensed milk",
